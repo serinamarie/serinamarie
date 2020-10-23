@@ -5,34 +5,41 @@ Hi, I'm Serina-- a data science intern at Family Promise working on a data shari
 - 👯 I’m looking to contribute to projects as a data scientist, data engineer, or database developer
 - 🍰 Fun fact: I love biking and baking
 
+<br />
 
-### Contact me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  <img align="left" alt="serinamarie's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=serinamarie&show_icons=true&hide_border=true&hide=stars,issues" />
+
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ### Languages and Tools:
 
-🐍 Python 
-🐼 Pandas 
-⚖️ NumPy
-🖼 Plotly
-🌱 Scikit-Learn
-🕯 AWS Lambda
-🚪 AWS API Gateway
-🌤 AWS CloudWatch
-👩🏻‍🍳 AWS SageMaker
-🥃 Flask
-🎁 SQL
-🔑 PostgreSQL
-🐳 Docker
-🌊 Seaborn
-📊 Matplotlib
-🌈 D3.js
-🎺 Keras
-⏳ TensorFlow
-📚 spaCy
+🐍 Python <br />
+🐼 Pandas <br />
+⚖️ NumPy <br />
+🖼 Plotly <br />
+🌱 Scikit-Learn <br />
+🕯 AWS Lambda <br />
+🚪 AWS API Gateway <br />
+🌤 AWS CloudWatch <br />
+👩🏻‍🍳 AWS SageMaker <br />
+🥃 Flask <br />
+🎁 SQL <br />
+🔑 PostgreSQL <br />
+🐳 Docker <br />
+🌊 Seaborn <br />
+📊 Matplotlib <br />
+🌈 D3.js <br />
+🎺 Keras <br />
+⏳ TensorFlow <br />
+📚 spaCy <br />
 
 
 <br />
@@ -47,14 +54,9 @@ Hi, I'm Serina-- a data science intern at Family Promise working on a data shari
 - [Can machine learning predict your gender according to your dating priorities?](https://medium.com/@serinagrill/predictive-modeling-heterosexual-gender-differences-in-opposite-sex-trait-preferences-97792c50891e)
 <!-- BLOG-POST-LIST:END -->
 
----
+### Contact me:
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="serinamarie's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=serinamarie&show_icons=true&hide_border=true&hide=stars,issues" />
-
-</details>
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/serinagrill
