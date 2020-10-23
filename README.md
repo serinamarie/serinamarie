@@ -36,19 +36,15 @@ Hi, I'm Serina-- a data science intern at Family Promise working on a data shari
 🌈 D3.js <br />
 🎺 Keras <br />
 ⏳ TensorFlow <br />
-📚 spaCy <br />
+📚 spaCy 
 
-
-<br />
-<br />
-
-## 📕 DS Blogposts
+## DS Blogposts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Decision Tree Classifier?](https://medium.com/@serinagrill/what-is-a-decision-tree-classifier-f4bdf4be8d8b)
-- [Can machine learning predict your gender according to your dating priorities?](https://medium.com/@serinagrill/predictive-modeling-heterosexual-gender-differences-in-opposite-sex-trait-preferences-97792c50891e)
+🌲 [What is a Decision Tree Classifier?](https://medium.com/@serinagrill/what-is-a-decision-tree-classifier-f4bdf4be8d8b)<br>
+🔮 [Can machine learning predict your gender according to your dating priorities?](https://medium.com/@serinagrill/predictive-modeling-heterosexual-gender-differences-in-opposite-sex-trait-preferences-97792c50891e)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact me
 
-[LinkedIn](https://www.linkedin.com/in/serinagrill/)
+📬 [LinkedIn](https://www.linkedin.com/in/serinagrill/)
