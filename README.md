@@ -42,8 +42,6 @@ Hi, I'm Serina-- a data science intern at Family Promise working on a data shari
 <br />
 <br />
 
----
-
 ## 📕 DS Blogposts
 
 <!-- BLOG-POST-LIST:START -->
@@ -53,8 +51,4 @@ Hi, I'm Serina-- a data science intern at Family Promise working on a data shari
 
 ## Contact me
 
-(https://www.linkedin.com/in/serinagrill/)[LinkedIn
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/serinagrill
+[LinkedIn](https://www.linkedin.com/in/serinagrill/)
