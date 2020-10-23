@@ -26,7 +26,7 @@ Hi, I'm Serina-- a data science intern at Family Promise working on a data shari
 🕯 AWS Lambda <br />
 🚪 AWS API Gateway <br />
 🌤 AWS CloudWatch <br />
-👩🏻‍🍳 AWS SageMaker <br />
+🌿 AWS SageMaker <br />
 🥃 Flask <br />
 🎁 SQL <br />
 🔑 PostgreSQL <br />
