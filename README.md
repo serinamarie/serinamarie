@@ -1,7 +1,7 @@
 # Serina Grill 
 Hi, I'm Serina-- a data science intern at Family Promise working on a data sharing API to help affect proper allocation of community resources to end family homelessness in Spokane. Previously worked as a data science team lead for Lambda School, managing and mentoring data science students. 
 
-👯 I’m looking to contribute to projects as a data scientist, data engineer, or database developer<br>
+👯 I’m looking to contribute to projects as a developer, data scientist, or data engineer.<br>
 🍿 What I've been thinking about lately: serverless backends, reducing bias during imputation, the joys of SQL<br>
 🍰 Fun fact: I love biking and baking<br>
 
