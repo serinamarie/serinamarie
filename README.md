@@ -1,7 +1,7 @@
 # Serina Grill 
 Hi, I'm Serina-- working in data science & engineering at Family Promise. 
 
-My current work there includes 
+My current responsibilities include
 1) developing a data sharing API to help affect proper allocation of community resources to end family homelessness in Spokane
 2) creating a serverless backend for a machine learning application
 3) analysis and model training of user data. 
