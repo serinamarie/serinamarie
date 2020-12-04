@@ -1,5 +1,12 @@
 # Serina Grill 
-Hi, I'm Serina-- working in data science & engineering at Family Promise. Current projects include 1) developing a data sharing API to help affect proper allocation of community resources to end family homelessness in Spokane, 2) creating a serverless backend for a machine learning application, and 3) analysis and model training of user data. Previously employed as a team lead for Lambda School, managing and mentoring data science students. 
+Hi, I'm Serina-- working in data science & engineering at Family Promise. 
+
+My current work there includes 
+1) developing a data sharing API to help affect proper allocation of community resources to end family homelessness in Spokane
+2) creating a serverless backend for a machine learning application
+3) analysis and model training of user data. 
+
+Previously employed as a team lead for Lambda School, managing and mentoring data science students. 
 
 👯 I’m looking to contribute to projects as a developer, data scientist, or data engineer.<br>
 🍿 What I've been thinking about lately: Django<br>
