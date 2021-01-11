@@ -6,7 +6,7 @@ My responsibilities include:
 2) creating a serverless backend for a machine learning application
 3) analysis and model training of user data
 
-Previously employed as a team and project lead for Lambda School, managing and mentoring data science students. 
+Previously managed and mentored data science students as a team and project lead for Lambda School,
 
 👯 I’m looking to contribute to projects as a developer, data scientist, or data engineer.<br>
 🍿 What I've been thinking about lately: Django, Javascript for front-end dev<br>
