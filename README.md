@@ -9,7 +9,7 @@ My responsibilities include:
 Previously managed and mentored data science students as a team and project lead for Lambda School,
 
 👯 I’m looking to contribute to projects as a developer, data scientist, or data engineer.<br>
-🍿 What I've been thinking about lately: Django, Javascript for front-end dev<br>
+🍿 What I've been thinking about lately: Django, Tesseract<br>
 🍰 Fun fact: I love biking and baking<br>
 
 <img align="left" alt="serinamarie's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=serinamarie&show_icons=true&hide_border=true&hide=stars,issues" />
