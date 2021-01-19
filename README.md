@@ -24,26 +24,13 @@ Previously managed and mentored data science students as a team and project lead
 
 
 ## Languages and Tools:
+<b>Analysis & EDA:</b> Python, Pandas, NumPy<br/>
+<b>Visualization Insights:</b> Plotly, Matplotlib, Seaborn, D3.js<br/>
+<b>Machine Learning:</b> Scikit-Learn, AWS SageMaker,  Keras, TensorFlow<br/>
+<b>Development:</b> AWS Lambda, AWS API Gateway, AWS S3, AWS CloudWatch, Flask, Django, Docker, Plotly Dash<br/>
+<b>Database:</b> SQL, PostgreSQL, MySQL, SQLite, MongoDB<br/>
+<b>NLP:</b> spaCy, TextBlob, NLTK
 
-🐍 Python <br />
-🐼 Pandas <br />
-⚖️ NumPy <br />
-🖼 Plotly <br />
-🌱 Scikit-Learn <br />
-🕯 AWS Lambda <br />
-🚪 AWS API Gateway <br />
-🌤 AWS CloudWatch <br />
-🌿 AWS SageMaker <br />
-🥃 Flask <br />
-🎁 SQL <br />
-🔑 PostgreSQL <br />
-🐳 Docker <br />
-🌊 Seaborn <br />
-📊 Matplotlib <br />
-🌈 D3.js <br />
-🎺 Keras <br />
-⏳ TensorFlow <br />
-📚 spaCy 
 
 ## DS Blogposts
 
