@@ -24,7 +24,7 @@ Previously managed and mentored data science students as a team and project lead
 
 
 ## Languages and Tools:
-<b>Analysis & EDA:</b> Python, Pandas, NumPy<br/>
+<b>Exploratory Data Analysis:</b> Python, Pandas, NumPy<br/>
 <b>Visualization Insights:</b> Plotly, Matplotlib, Seaborn, D3.js<br/>
 <b>Machine Learning:</b> Scikit-Learn, AWS SageMaker,  Keras, TensorFlow<br/>
 <b>Development:</b> AWS Lambda, AWS API Gateway, AWS S3, AWS CloudWatch, Flask, Django, Docker, Plotly Dash<br/>
