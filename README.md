@@ -1,15 +1,10 @@
 # Serina Grill 
-Hi, I'm Serina-- working in data science & engineering at Family Promise. 
-
-My responsibilities include:
-1) developing a data sharing API to help affect proper allocation of community resources to end family homelessness in Spokane
-2) creating a serverless backend for a machine learning application
-3) analysis and model training of user data
+Hi, I'm Serina-- working in data engineering at American Airlines.
 
 Previously managed and mentored data science students as a team and project lead for Lambda School,
 
 👯 I’m looking to contribute to projects as a developer, data scientist, or data engineer.<br>
-🍿 What I've been thinking about lately: Django, Tesseract<br>
+🍿 What I've been thinking about lately: Azure platform<br>
 🍰 Fun fact: I love biking and baking<br>
 
 <img align="left" alt="serinamarie's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=serinamarie&show_icons=true&hide_border=true&hide=stars,issues" />
