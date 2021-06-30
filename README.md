@@ -8,18 +8,14 @@ Previously managed and mentored data science students as a team and project lead
 🍰 Fun fact: I love biking and baking<br>
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 
 
 ## Languages and Tools:
 <b>Exploratory Data Analysis:</b> Python, Pandas, NumPy<br/>
 <b>Visualization Insights:</b> Plotly, Matplotlib, Seaborn, D3.js<br/>
 <b>Machine Learning:</b> Scikit-Learn, AWS SageMaker,  Keras, TensorFlow<br/>
-<b>Development:</b> AWS Lambda, AWS API Gateway, AWS S3, AWS CloudWatch, Flask, Django, Docker, Plotly Dash<br/>
+<b>Development:</b> Databricks, Azure Data Factory, Azure DevOps, AWS Lambda, AWS API Gateway, AWS S3, AWS CloudWatch, Flask, Django, Docker, Plotly Dash<br/>
 <b>Database:</b> SQL, PostgreSQL, MySQL, SQLite, MongoDB<br/>
 <b>Natural Language Processing:</b> spaCy, TextBlob, NLTK
 
