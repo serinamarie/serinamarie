@@ -7,9 +7,6 @@ Previously managed and mentored data science students as a team and project lead
 🍿 What I've been thinking about lately: Azure platform<br>
 🍰 Fun fact: I love biking and baking<br>
 
-<img align="left" alt="serinamarie's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=serinamarie&show_icons=true&hide_border=true&hide=stars,issues" />
-
-
 <br />
 <br />
 <br />
