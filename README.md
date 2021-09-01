@@ -1,10 +1,12 @@
 # Serina Grill 
 Hi, I'm Serina-- working in data engineering at American Airlines.
 
-Previously managed and mentored data science students as a team and project lead for Lambda School,
+Previously:
+-Developed APIs for Family Promise as a data science and engineering intern.
+-Built AWS backend for a data visualization app.
+-Managed and mentored data science students as a team and project lead for Lambda School.
 
 👯 I’m looking to contribute to projects as a developer, data scientist, or data engineer.<br>
-🍿 What I've been thinking about lately: Azure platform<br>
 🍰 Fun fact: I love biking and baking<br>
 
 <br />
