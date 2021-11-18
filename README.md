@@ -22,7 +22,7 @@ Previously:<br>
 <b>Natural Language Processing:</b> spaCy, TextBlob, NLTK
 
 
-## DS Blogposts
+## Articles
 
 <!-- BLOG-POST-LIST:START -->
 🌲 [What is a Decision Tree Classifier?](https://medium.com/@serinagrill/what-is-a-decision-tree-classifier-f4bdf4be8d8b)<br>
