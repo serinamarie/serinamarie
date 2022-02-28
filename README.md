@@ -12,7 +12,7 @@ Previously:<br>
 -Built AWS backend for a data visualization app.<br>
 -Managed and mentored data science students as a team and project lead for Lambda School.
 
-👯 I’m looking to contribute to projects as a developer, data scientist, or data engineer.<br>
+👯 I’m looking to contribute to projects as a developer, devops engineer, and data engineer.<br>
 🍰 Fun fact: I love biking and baking<br>
 
 <br />
