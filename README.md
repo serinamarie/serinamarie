@@ -1,6 +1,12 @@
 # Serina Grill 
 Hi, I'm Serina-- working in data engineering at American Airlines.
 
+@American:<br>
+- Accelerated and streamlined CI/CD for the DataOps team and contributors by building automated testing, publishing, and deployment workflows through GitHub Actions<br>
+- Centralized reusable data ingestion & transformation scripts into an innersource PySpark library alongside the DataOps principal architect <br>
+- Expedited Talent Acquisition analysis by writing data-processing pipelines in Python with Spark, Databricks, & Azure Data Factory, working closely with data analysts to understand their needs <br>
+- Improved development efficiency through Azure Devops by writing reusable pipelines and leveraging task groups
+
 Previously:<br>
 -Developed APIs for Family Promise as a data science and engineering intern.<br>
 -Built AWS backend for a data visualization app.<br>
