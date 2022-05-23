@@ -1,5 +1,5 @@
 # Serina Grill 
-Hi, I'm Serina-- working in solutions engineering at Prefect.
+Hi, I'm Serina-- working in solutions engineering at Prefect as of May 2022.
 
 Previously:<br>
 @American
