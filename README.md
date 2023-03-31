@@ -1,17 +1,6 @@
 # Serina Grill 
-Hi, I'm Serina-- working in solutions engineering at Prefect as of May 2022.
+Hi, I'm Serina-- working at Prefect as of May 2022.
 
-Previously:<br>
-@American
-- Accelerated and streamlined CI/CD for the DataOps team and contributors by building automated testing, publishing, and deployment workflows through GitHub Actions<br>
-- Centralized reusable data ingestion & transformation scripts into an innersource PySpark library alongside the DataOps principal architect <br>
-- Expedited Talent Acquisition analysis by writing data-processing pipelines in Python with Spark, Databricks, & Azure Data Factory, working closely with data analysts to understand their needs <br>
-- Improved development efficiency through Azure Devops by writing reusable pipelines and leveraging task groups
-
-@Family Promise
-- Developed APIs for Family Promise as a data science and engineering intern.<br>
-- Built AWS backend for a data visualization app.<br>
-- Managed and mentored data science students as a team and project lead for Lambda School.
 
 ### Languages and Tools:
 <b>Exploratory Data Analysis:</b> Python, Pandas, NumPy<br/>
