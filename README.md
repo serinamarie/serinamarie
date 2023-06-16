@@ -1,5 +1,5 @@
 # Serina Grill 
-Hi, I'm Serina-- working at Prefect as of May 2022.
+Hi, I'm Serina-- working at Prefect since May 2022.
 
 
 ### Languages and Tools:
